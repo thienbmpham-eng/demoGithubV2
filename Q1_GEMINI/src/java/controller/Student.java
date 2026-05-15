@@ -63,6 +63,8 @@ public class Student {
         return "Student{" + "id=" + id + ", name=" + name + ", dob=" + dob + ", mark=" + mark + '}';
     }
     
-    
-    
+    public String print(){
+        return "Hello";
+    }
+
 }
