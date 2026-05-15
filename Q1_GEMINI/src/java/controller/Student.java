@@ -66,5 +66,10 @@ public class Student {
     public String print(){
         return "Hello";
     }
+    
+    public String addName()
+    {
+        return "kkkkk";
+    }
 
 }
