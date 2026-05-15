@@ -67,6 +67,9 @@ public class Student {
         return "Hello";
     }
     
+    public void display(){
+        System.out.println("Quang Lo");
+    }
     public String addName()
     {
         return "Bachlo";
