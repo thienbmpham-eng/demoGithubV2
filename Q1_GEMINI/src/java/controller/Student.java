@@ -67,9 +67,8 @@ public class Student {
         return "Hello";
     }
     
-    public String addName()
-    {
-        return "Thang Lo";
+    public void display(){
+        System.out.println("Quang Lo");
     }
 
 }
