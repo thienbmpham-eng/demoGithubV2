@@ -69,7 +69,7 @@ public class Student {
     
     public String addName()
     {
-        return "kkkkk";
+        return "Bachlo";
     }
 
 }
